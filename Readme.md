@@ -79,6 +79,9 @@ https://discord.com/api/oauth2/authorize?client_id=1139242338254852209&permissio
 1. minecraftのログを監視するシェルスクリプトを作成（check_access_to_shutdown.sh）
 2. rootユーザーのcronに登録し、10分置きに確認するが、起動後15分間は停止しないようにする
 
+#### ワールド再作成
+1. バックアップの作成
+2. 再ビルドでワールド再作成
 
 #### バックアップ機能作成
 未実装
