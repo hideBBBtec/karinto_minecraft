@@ -83,6 +83,10 @@ https://discord.com/api/oauth2/authorize?client_id=1139242338254852209&permissio
 1. バックアップの作成
 2. 再ビルドでワールド再作成
 
+#### オペレーター権限付与
+1. ops.txtを作成して付与
+2. ops.jsonの内容で権限レベルを3に修正
+
 #### バックアップ機能作成
 未実装
 
